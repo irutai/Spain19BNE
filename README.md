@@ -41,9 +41,13 @@ This file contains a subset of the previous files, containing only those relatio
 
 This files contains a total of manually evaluated relationships in the coleccion. The instances are distributed as 233 whole–whole (WW), 85 whole–part (WP), and 49 part–part (PP)instances. The format is the same than previous ones, but the label indicating the relationships can be WW, WP or PP
 
-#### codeTitle.csv
+#### + codeTitle.csv
 
 This files contains the code and the title of the different manifestations in the collection
+
+#### Example:
+
+bimo0001594627,Dios
  
  
 
